@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
  
     function countdown(){
         const currentDate=new Date();
-        const targetDate=new Date("Auguest 14, 2024 14:57:50");
+        const targetDate=new Date("September 7, 2024 00:00:00");
         const diff=targetDate-currentDate
         
         //calculating remaining days,hours,min,seconds        
